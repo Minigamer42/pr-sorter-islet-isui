@@ -1,5 +1,5 @@
 const config = {
-    localStoragePrefix: "bandori",
-    title: "Bang Dream! Sorter",
+    localStoragePrefix: "islet-isui",
+    title: "Islet/Isui Originals Sorter",
     description: "Party rank sorter for your custom list of songs."
 };
